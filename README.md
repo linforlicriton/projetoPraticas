@@ -1,2 +1,1 @@
-Hello                      from Git
-sadsadasdsa
+Hello from Git
